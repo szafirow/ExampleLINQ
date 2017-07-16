@@ -1,0 +1,11 @@
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\bin\Debug\BazaLINQ.exe.config
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\bin\Debug\BazaLINQ.exe
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\bin\Debug\BazaLINQ.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.Form1.resources
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.exe
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.Form_insert.resources
+C:\Users\patryk\documents\visual studio 2013\Projects\BazaLINQ\BazaLINQ\obj\Debug\BazaLINQ.Form_insert2.resources
